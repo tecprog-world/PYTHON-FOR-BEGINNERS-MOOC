@@ -1,11 +1,11 @@
 # PYTHON FOR BEGINNERS MOOC
 ##TEMARIO:
 1. Introducción
-1.1. Motivación
-1.1.1. ¿Qué es la programación?
-1.1.2. ¿Quienes pueden programar?
-1.2.3. ¿Que pueden lograr?
-1.2.4. ¿Qué es Python?
+	1. Motivación
+		1. ¿Qué es la programación?
+		2. ¿Quienes pueden programar?
+		3. ¿Que pueden lograr?
+		4. ¿Qué es Python?
 1.2. Entornos virtuales
 1.2.1. PIP o Anaconda
 1.2.2. Requisitos para instanalar Anaconda
